@@ -1,3 +1,3 @@
-# URI-estudo
+# Estudo Python
 
-Solving problems from URI
+Fazendo Exercicios Python e aprendendo.
